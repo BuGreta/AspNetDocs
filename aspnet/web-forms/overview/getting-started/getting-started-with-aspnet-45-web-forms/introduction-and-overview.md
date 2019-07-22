@@ -33,7 +33,7 @@ You should have some knowledge in the following areas:
 To review these areas, consider studying the following content:
 
 - [Getting Started with Visual C#](https://msdn.microsoft.com/library/a72418yk.aspx)
-- [Web Development](https://msdn.microsoft.com/beginner/bb308760.aspx), [HTML, CSS, JavaScript, SQL, PHP, JQuery](http://w3schools.com/)
+- [Web Development](https://msdn.microsoft.com/beginner/bb308760.aspx), [HTML, CSS, JavaScript, SQL, PHP, JQuery](https://www.bitdegree.org/learn/)
 - [Relational database](http://en.wikipedia.org/wiki/Relational_database)
 - [Multitier architecture](http://en.wikipedia.org/wiki/Multitier_architecture)
 
